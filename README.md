@@ -5,7 +5,7 @@ The project covers removing duplicates, formatting text, descriptive statistics,
 
 ## Dataset
 
-- **Raw Data**: `Billionaires Statistics Dataset Raw.xlsx`  
+- **Raw Data**: `Billionaires Statistics Dataset Raw.csv`  
   Contains the original dataset including rank, category, personal information, net worth, country metrics, and more.
 
 - **Cleaned Data**: `billionaires_cleaned.xlsx`  
