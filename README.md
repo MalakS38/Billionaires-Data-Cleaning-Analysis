@@ -11,6 +11,9 @@ The project covers removing duplicates, formatting text, descriptive statistics,
 - **Cleaned Data**: `billionaires_cleaned.xlsx`  
   Includes processed data with duplicates removed, standardized formatting, and ready for analysis.
 
+- **Data Analysis**: `Billionaires_Data_Analysis.xlsx`  
+  Combines cleaned data, pivot tables with category slicer, and dynamic chart for easy exploration and analysis.
+
 ## Project Workflow
 
 1. **Data Cleaning & Preparation**
